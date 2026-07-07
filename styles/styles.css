@@ -648,19 +648,19 @@ main[hidden] {
   display: none !important;
 }
 
-/* === Storefront Genie theme: luxury-fragrance (auto-generated; do not edit) === */
+/* === Storefront Genie theme: organic-natural (auto-generated; do not edit) === */
 
 /* stylelint-disable no-duplicate-selectors */
 :root, .dropin-design {
-  --type-base-font-family: 'Jost', system-ui, sans-serif;
-  --color-brand-300: #6f6459;
-  --color-brand-500: #2b2118;
-  --color-brand-600: #1f1811;
-  --color-brand-700: #14100b;
+  --type-base-font-family: 'Nunito Sans', system-ui, sans-serif;
+  --color-brand-300: #7fa06a;
+  --color-brand-500: #4a6b39;
+  --color-brand-600: #3b562d;
+  --color-brand-700: #2c4122;
   --color-button-hover: var(--color-brand-600);
-  --shape-border-radius-1: 0;
-  --shape-border-radius-2: 0;
-  --shape-border-radius-3: 2px;
+  --shape-border-radius-1: 8px;
+  --shape-border-radius-2: 16px;
+  --shape-border-radius-3: 32px;
 }
 /* stylelint-enable no-duplicate-selectors */
 
